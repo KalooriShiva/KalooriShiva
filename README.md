@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm <span style="color:#ff4d6d">Shiva Kaloori</span></h1>
+<h3 align="center">AI Developer • ML Enthusiast • Problem Solver</h3>
 
-<!--
-**KalooriShiva/KalooriShiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- STREAK -->
+<p align="center">
+  <picture>
+    <!-- Light mode (system theme) -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://streak-stats.demolab.com?user=KalooriShiva&theme=default&hide_border=true"
+    />
+    <!-- Dark mode (system theme) -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://streak-stats.demolab.com?user=KalooriShiva&theme=radical&hide_border=true"
+    />
+    <!-- Fallback -->
+    <img 
+      alt="GitHub Streak" 
+      src="https://streak-stats.demolab.com?user=KalooriShiva&theme=radical&hide_border=true"
+    />
+  </picture>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- MAIN STATS -->
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=KalooriShiva&show_icons=true&theme=default&hide_border=true"
+    />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=KalooriShiva&show_icons=true&theme=radical&hide_border=true"
+    />
+    <img 
+      alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=KalooriShiva&show_icons=true&theme=radical&hide_border=true"
+    />
+  </picture>
+</p>
+
+<!-- TOP LANGUAGES -->
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooriShiva&layout=compact&theme=default&hide_border=true"
+    />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooriShiva&layout=compact&theme=radical&hide_border=true"
+    />
+    <img 
+      alt="Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooriShiva&layout=compact&theme=radical&hide_border=true"
+    />
+  </picture>
+</p>
+
+---
